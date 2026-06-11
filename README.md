@@ -24,7 +24,7 @@ The platform leverages Artificial Intelligence, Natural Language Processing (NLP
 * 🔖 **DOI:** https://doi.org/10.47001/IRJIET/2026.105074
 * 🌐 **Issue Link:** https://irjiet.com/Volume-10/Issue-5-May-2026/105
 * 📄 **Published Article:** https://irjiet.com/Volume-10/Issue-5-May-2026/HireSyncAI-An-AI-Driven-Hiring-and-Resume-Ranking-Agent-Using-Large-Language-Models-and-Cloud-Synchronized-Multi-Role-Architecture/3266
-* 🏆 **Certificate of Publication:** Available in repository
+* 🏆 **Certificate of Publication:** - 🏆 [Publication Certificate](./certificates/certificates/e_certificate2.pdf)
 
 `Research Publication` `Artificial Intelligence` `NLP` `Large Language Models` `Resume Ranking` `Cloud Architecture`
 
