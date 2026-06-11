@@ -29,11 +29,11 @@ The platform leverages Artificial Intelligence, Natural Language Processing (NLP
 Language-Models-and-Cloud-Synchronized-Multi-Role-Architecture/3266
 
 `Research Publication` `Artificial Intelligence` `NLP` `Large Language Models` `Resume Ranking` `Cloud Architecture`
->  ** 🛡️ Licensed under the Apache 2.0 License**
->
----
 
 > **Published in IRJIET (Volume 10, Issue 5, Pages 537–547)**
+---
+## 🛡️ Licensed under the Apache 2.0 License
+>
 ---
 
 ## ✨ Features
