@@ -33,7 +33,7 @@ Language-Models-and-Cloud-Synchronized-Multi-Role-Architecture/3266
 > **Published in IRJIET (Volume 10, Issue 5, Pages 537–547)**
 ---
 ## 🛡️ Licensed under the Apache 2.0 License
-> **LICENSE** - [License]()
+> **LICENSE** - [License](LICENSE)
 ---
 
 ## ✨ Features
