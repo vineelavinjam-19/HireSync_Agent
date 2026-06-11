@@ -12,6 +12,24 @@ HireSync AI is an AI-powered recruitment platform designed to streamline the hir
 The platform leverages Artificial Intelligence, Natural Language Processing (NLP), and modern full-stack technologies to help recruiters identify the most suitable candidates efficiently.
 
 ---
+### 📄 Research Publication — HireSync AI
+
+> *Published research on AI-powered recruitment, resume ranking, and intelligent hiring systems.*
+
+**Title:**
+**HireSync AI: An AI-Driven Hiring and Resume Ranking Agent Using Large Language Models and Cloud-Synchronized Multi-Role Architecture**
+
+* 📚 **Journal:** International Research Journal of Innovations in Engineering and Technology (IRJIET)
+* 📅 **Published:** May 2026
+* 🔖 **DOI:** https://doi.org/10.47001/IRJIET/2026.105074
+* 🌐 **Issue Link:** https://irjiet.com/Volume-10/Issue-5-May-2026/105
+* 📄 **Published Article:** https://irjiet.com/Volume-10/Issue-5-May-2026/HireSyncAI-An-AI-Driven-Hiring-and-Resume-Ranking-Agent-Using-Large-Language-Models-and-Cloud-Synchronized-Multi-Role-Architecture/3266
+* 🏆 **Certificate of Publication:** Available in repository
+
+`Research Publication` `Artificial Intelligence` `NLP` `Large Language Models` `Resume Ranking` `Cloud Architecture`
+
+> **Published in IRJIET (Volume 10, Issue 5, Pages 537–547)**
+---
 
 ## ✨ Features
 
