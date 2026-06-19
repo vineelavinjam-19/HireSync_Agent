@@ -241,13 +241,21 @@ _Add screenshot here_
 
 ## 👩‍💻 Author
 
-**Vineela Vinjam**
+**1) Vineela Vinjam**
 
 📧 vinnivinjam@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/vineelavinjam
 
 💻 GitHub: https://github.com/vineelavinjam-19
+
+**2) Vanga Sanjana **
+
+<!--📧 vinnivinjam@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/vineelavinjam
+
+💻 GitHub: https://github.com/vineelavinjam-19-->
 
 --- 
 
