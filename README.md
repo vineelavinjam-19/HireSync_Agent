@@ -249,7 +249,7 @@ _Add screenshot here_
 
 💻 GitHub: https://github.com/vineelavinjam-19
 
-**2) Vanga Sanjana **
+**2) Vanga Sanjana**
 
 <!--📧 vinnivinjam@gmail.com
 
